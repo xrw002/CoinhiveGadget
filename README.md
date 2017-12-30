@@ -44,7 +44,7 @@ This is the Google Site I used for the pictures in the installation guide: [http
 
 ![Alt text](https://sites.google.com/site/unblockedhackedhalo/GithubCoinhiveStep8.JPG)
 
-12. A new window will appear with the gadget settings. **If you are using the HiddenAutostart gadget follow these instructions:** Set "Width" to 10 and click the box "Percent" and change it to "pixels". Set the "Height" to 10. **Un**check the boxes "Include a border around gadget" and "Display title on gadget". This will make your gadget undetectable on the page. **If you are using the OptIn gadget follow these instructions:** Depending on the other content on your page you might want to play around with the settings for "Width" and "Height". But **Un**check the box for "Include a border around gadget". You can include a title if you want.
+12. A new window will appear with the gadget settings. **If you are using the HiddenAutostart gadget follow these instructions:** Set "Width" to 10 and click the box "Percent" and change it to "pixels". Set the "Height" to 10. **Uncheck** the boxes "Include a border around gadget" and "Display title on gadget". This will make your gadget undetectable on the page. **If you are using the OptIn gadget follow these instructions:** Depending on the other content on your page you might want to play around with the settings for "Width" and "Height". But **Uncheck** the box for "Include a border around gadget". You can include a title if you want.
 
 Picture is for the **HiddenAutostart gadget**.
 ![Alt text](https://sites.google.com/site/unblockedhackedhalo/GithubCoinhiveStep9.JPG)
