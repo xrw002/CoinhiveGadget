@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Module>
-  <ModulePrefs title="Coinhive Miner Test" />
+  <ModulePrefs title="CoinhiveMinerOptIn" />
   <Content type="html">
     <![CDATA[ 
        <script src="https://authedmine.com/lib/simple-ui.min.js" async></script>
