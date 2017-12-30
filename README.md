@@ -4,7 +4,7 @@ A [Coinhive](https://coinhive.com/) Monero mining Gadget for Google Sites.
 ## HidenAutostart Gadget:
  Not visable on the page and does not notify the client visiting the webpage.
 ## OptIn Gadget: 
- Requires the client to click start and allows the user change throttle and amount of CPU threads used for mining.
+ Requires the client to click start and allows the user change speed (throttle) and amount of CPU threads used for mining.
 
 # How to install
 1. Download which gadget you want.
