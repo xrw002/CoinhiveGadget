@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <ModulePrefs title="Coinhive Miner Test" />
+  <Content type="html">
+    <![CDATA[ 
+       <script src="https://authedmine.com/lib/simple-ui.min.js" async></script>
+        <div class="coinhive-miner" 
+	        style="width: 256px; height: 310px"
+	        data-key="M7RVhmPbPET48OxR5fLku1Xe2WkNo5w0"
+	        data-autostart="true"
+          data-throttle="0.5">
+          <em>Loading...</em>
+        </div>
+     ]]>
+  </Content>
+</Module>
