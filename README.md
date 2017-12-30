@@ -49,7 +49,7 @@ This is the Google Site I used for the pictures in the installation guide: [http
 Picture is for the **HiddenAutostart gadget**.
 ![Alt text](https://sites.google.com/site/unblockedhackedhalo/GithubCoinhiveStep9.JPG)
 
-13. Your new Coinhive mining gadget should now be on your page. You can move it around the page as you want by dragging the garget box up and down the page. Click "Save" to finalize your page.
+13. Your new Coinhive mining gadget should now be on your page. You can move it around the page as you want by dragging the gadget box up and down the page. Click "Save" to finalize your page.
 
 ![Alt text](https://sites.google.com/site/unblockedhackedhalo/GithubCoinhiveStep10.JPG)
 
